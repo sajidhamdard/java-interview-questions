@@ -29,17 +29,17 @@ If you feel awesome and want to support us in a small way, please consider starr
 
 Thank you to the people who have already contributed:
 
-<a href="https://github.com/sajidhamdard/learnjavascript/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sajidhamdard/learnjavascript" />
+<a href="https://github.com/sajidhamdard/java-interview-questions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sajidhamdard/java-interview-questions" />
 </a>
 
 ## Forkers
 
-[![Forkers repo roster for @sajidhamdard/learnjavascript](https://reporoster.com/forks/sajidhamdard/learnjavascript)](https://github.com/sajidhamdard/learnjavascript/network/members)
+[![Forkers repo roster for @sajidhamdard/java-interview-questions](https://reporoster.com/forks/sajidhamdard/java-interview-questions)](https://github.com/sajidhamdard/java-interview-questions/network/members)
 
 ## Stargazers
 
-[![Stargazers repo roster for @sajidhamdard/learnjavascript](https://reporoster.com/stars/sajidhamdard/learnjavascript)](https://github.com/sajidhamdard/learnjavascript/stargazers)
+[![Stargazers repo roster for @sajidhamdard/java-interview-questions](https://reporoster.com/stars/sajidhamdard/java-interview-questions)](https://github.com/sajidhamdard/java-interview-questions/stargazers)
 
 ## Maintainers
 
