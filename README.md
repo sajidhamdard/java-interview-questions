@@ -1,4 +1,4 @@
-# 1000 JavaScript Interview Questions
+# 500 JavaScript Interview Questions
 
 Hi,
 
